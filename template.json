@@ -1,0 +1,7 @@
+{
+  "name": "scaffold-hbar-depin",
+  "version": "1.0.0",
+  "description": "A DePIN IoT scaffold template bridging physical hardware telemetry to the Hedera Consensus Service (HCS) and Hedera Token Service (HTS).",
+  "framework": "nextjs",
+  "capabilities": ["hcs", "hts", "frontend"]
+}
